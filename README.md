@@ -13,8 +13,8 @@ This repository contains the source code for the Product Management Dashboard of
 ## 🛠️ Tech Stack
 
 - **Frontend:** [Next.js](https://nextjs.org/)
-- **State Management:** Context API / Redux (based on your preference)
-- **User Authentication:** [AWS Cognito](https://aws.amazon.com/cognito/)
+- **State Management:** Context API 
+- **User Authentication:**  [NextAuth](https://next-auth.js.org/) + [AWS Cognito](https://aws.amazon.com/cognito/)
 - **API:** [Next.js API Routes](https://nextjs.org/docs/api-routes/introduction)
 - **Styling:** CSS Modules
 - **Deployment:**  [AWS Amplify](https://aws.amazon.com/amplify/)
