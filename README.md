@@ -26,3 +26,9 @@ This repository contains the source code for the Product Management Dashboard of
 - Node.js (v14 or later)
 - NPM or Yarn
 - AWS Account (for Cognito and other services)
+
+## MVP
+
+ - Auth: complete
+ - Item upload
+ - FE Components
