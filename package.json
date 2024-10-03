@@ -11,6 +11,9 @@
   "dependencies": {
     "@aws-amplify/ui-react": "^6.5.0",
     "@aws-amplify/ui-react-core": "^3.0.24",
+    "@aws-sdk/client-dynamodb": "^3.624.0",
+    "@aws-sdk/client-s3": "^3.626.0",
+    "@aws-sdk/lib-storage": "^3.626.0",
     "aws-amplify": "^6.6.2",
     "next": "14.2.13",
     "react": "^18",
