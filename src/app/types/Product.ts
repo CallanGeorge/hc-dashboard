@@ -1,6 +1,6 @@
 export interface Product {
   id: string;
-  images: string[]; // Maximum of 3 images come on be serious
+  images: string[]; // Maximum of 5 images come on be serious
   title: string;
   stock: number; // Number of items in stock
   description: string;
